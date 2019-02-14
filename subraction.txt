@@ -1,0 +1,9 @@
+ First number : 56
+ Second number :  58
+ Total :  114  First number : 23
+ Second number :  25
+ Total :  48  First number : 25
+ Second number :  23
+ Total :  48  First number : 52
+ Second number :  25
+ Total :  77 

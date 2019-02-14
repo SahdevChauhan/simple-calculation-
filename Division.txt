@@ -1,0 +1,7 @@
+ First number : 50
+ Second number :  35
+ Total :  85  First number : 50
+ Second number :  5
+ Total :  55  First number : 26
+ Second number :  25
+ Total :  51 

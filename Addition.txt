@@ -1,0 +1,13 @@
+ First number : 565656
+ Second number :  5365666
+ Total :  5931322  First number : 25
+ Second number :  225
+ Total :  250  First number : 2
+ Second number :  3
+ Total :  5  First number : 25
+ Second number :  38
+ Total :  63  First number : 41
+ Second number :  5
+ Total :  46  First number : 23
+ Second number :  25
+ Total :  48 
